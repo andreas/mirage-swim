@@ -1,0 +1,9 @@
+PKG lwt
+PKG mirage
+PKG mirage-types
+PKG bin_prot
+PKG res
+PKG core
+PKG cstruct
+EXT lwt
+B _build
